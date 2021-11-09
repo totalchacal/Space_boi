@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: e858d700d06100e4396a329598de524f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6362290972351372809
+    second: astronaut_0
+  - first:
+      213: -1288049615716269
+    second: astronaut_1
+  - first:
+      213: 3882900790196195014
+    second: astronaut_2
+  - first:
+      213: 5617970741713943694
+    second: astronaut_3
+  - first:
+      213: -5826254180988321375
+    second: astronaut_4
+  - first:
+      213: 8320248626341413291
+    second: astronaut_5
+  - first:
+      213: 6061804866908208440
+    second: astronaut_6
+  - first:
+      213: -7879347905028560554
+    second: astronaut_7
+  - first:
+      213: 970926691857807743
+    second: astronaut_8
+  - first:
+      213: 8951438286592332391
+    second: astronaut_9
+  - first:
+      213: -3890122624531228361
+    second: astronaut_10
+  - first:
+      213: 8583788947061083919
+    second: astronaut_11
+  - first:
+      213: -3000299213262099927
+    second: astronaut_12
+  - first:
+      213: -1335415895345294103
+    second: astronaut_13
+  - first:
+      213: 8985098295442204951
+    second: astronaut_14
+  - first:
+      213: -1554958845983472318
+    second: astronaut_15
+  - first:
+      213: 2230725470020994357
+    second: astronaut_16
+  - first:
+      213: 2034112436406384505
+    second: astronaut_17
+  - first:
+      213: 7274020735784939031
+    second: astronaut_18
+  - first:
+      213: 4183260302767893081
+    second: astronaut_19
+  - first:
+      213: -7445558762679578794
+    second: astronaut_20
+  - first:
+      213: -1162022471117744294
+    second: astronaut_21
+  - first:
+      213: 2380067688641051005
+    second: astronaut_22
+  - first:
+      213: 547268877505992636
+    second: astronaut_23
+  - first:
+      213: -1651321682500298281
+    second: astronaut_24
+  - first:
+      213: -6753332215895466494
+    second: astronaut_25
+  - first:
+      213: -2177819411193316903
+    second: astronaut_26
+  - first:
+      213: -8606574883939055996
+    second: astronaut_27
+  - first:
+      213: -4781163130014827148
+    second: astronaut_28
+  - first:
+      213: 1549609609758375449
+    second: astronaut_29
+  - first:
+      213: -2825526449127898872
+    second: astronaut_30
+  - first:
+      213: 5035607463363301762
+    second: astronaut_31
+  - first:
+      213: -4082442653978758200
+    second: astronaut_32
+  - first:
+      213: 7262474222571700001
+    second: astronaut_33
+  - first:
+      213: 2606436634741293721
+    second: astronaut_34
+  - first:
+      213: -2725238621306626643
+    second: astronaut_35
+  - first:
+      213: -6314166783128137136
+    second: astronaut_36
+  - first:
+      213: -2800224704744855352
+    second: astronaut_37
+  - first:
+      213: -5629085508992088085
+    second: astronaut_38
+  - first:
+      213: -3954754952280910736
+    second: astronaut_39
+  - first:
+      213: 8034580942925918846
+    second: astronaut_40
+  - first:
+      213: 2513626461691580336
+    second: astronaut_41
+  - first:
+      213: -6243941871579800875
+    second: astronaut_42
+  - first:
+      213: -8283054481349702710
+    second: astronaut_43
+  - first:
+      213: 3933247817374170659
+    second: astronaut_44
+  - first:
+      213: -3883766655979241602
+    second: astronaut_45
+  - first:
+      213: 7313425969642635112
+    second: astronaut_46
+  - first:
+      213: 2021381153950126677
+    second: astronaut_47
+  - first:
+      213: 7415816036939506655
+    second: astronaut_48
+  - first:
+      213: 4810374064632165327
+    second: astronaut_49
+  - first:
+      213: 559891724085350354
+    second: astronaut_50
+  - first:
+      213: -2780396185473887863
+    second: astronaut_51
+  - first:
+      213: 5397393887131533254
+    second: astronaut_52
+  - first:
+      213: 2264018805765832306
+    second: astronaut_53
+  - first:
+      213: -3492879042968500271
+    second: astronaut_54
+  - first:
+      213: -1531639049518549193
+    second: astronaut_55
+  - first:
+      213: -1874142488778989522
+    second: astronaut_56
+  - first:
+      213: -8361325216070204565
+    second: astronaut_57
+  - first:
+      213: -3510342188144637053
+    second: astronaut_58
+  - first:
+      213: -1953217473480607399
+    second: astronaut_59
+  - first:
+      213: 4428760938572737555
+    second: astronaut_60
+  - first:
+      213: 1696022536155924666
+    second: astronaut_61
+  - first:
+      213: -5152736699097931129
+    second: astronaut_62
+  - first:
+      213: 3032318584878020380
+    second: astronaut_63
+  - first:
+      213: 4468318905020483743
+    second: astronaut_64
+  - first:
+      213: -8188674004098477150
+    second: astronaut_65
+  - first:
+      213: -2045702509191532692
+    second: astronaut_66
+  - first:
+      213: 1912198626374357606
+    second: astronaut_67
+  - first:
+      213: 5648580898743360124
+    second: astronaut_68
+  - first:
+      213: -3750216132047568097
+    second: astronaut_69
+  - first:
+      213: -1747410040914838724
+    second: astronaut_70
+  - first:
+      213: -3232909091610641877
+    second: astronaut_71
+  - first:
+      213: -1256969743503434314
+    second: astronaut_72
+  - first:
+      213: 7736890601148094198
+    second: astronaut_73
+  - first:
+      213: -2091830350770700903
+    second: astronaut_74
+  - first:
+      213: 2667548834840332340
+    second: astronaut_75
+  - first:
+      213: -6321141620146476879
+    second: astronaut_76
+  - first:
+      213: -9141422177865840082
+    second: astronaut_77
+  - first:
+      213: -7985868833678913257
+    second: astronaut_78
+  - first:
+      213: 7867109556891552984
+    second: astronaut_79
+  - first:
+      213: -3139093323955597270
+    second: astronaut_80
+  - first:
+      213: -4485336069752807170
+    second: astronaut_81
+  - first:
+      213: -8185180599928431688
+    second: astronaut_82
+  - first:
+      213: -403022852484915621
+    second: astronaut_83
+  - first:
+      213: -2402483631803955584
+    second: astronaut_84
+  - first:
+      213: 3644722716817921579
+    second: astronaut_85
+  - first:
+      213: -6012054442699324629
+    second: astronaut_86
+  - first:
+      213: -555281515881491879
+    second: astronaut_87
+  - first:
+      213: -3657528710741879492
+    second: astronaut_88
+  - first:
+      213: -5265645203750090308
+    second: astronaut_89
+  - first:
+      213: -8941504791756898715
+    second: astronaut_90
+  - first:
+      213: -6793905349266850655
+    second: astronaut_91
+  - first:
+      213: -8806729744408202210
+    second: astronaut_92
+  - first:
+      213: -4065740899426223162
+    second: astronaut_93
+  - first:
+      213: -3011019927551859745
+    second: astronaut_94
+  - first:
+      213: -7666018804966976876
+    second: astronaut_95
+  - first:
+      213: -3618869227648057810
+    second: astronaut_96
+  - first:
+      213: -6472596489466106686
+    second: astronaut_97
+  - first:
+      213: -3084050299928173778
+    second: astronaut_98
+  - first:
+      213: 2882593711037225963
+    second: astronaut_99
+  - first:
+      213: -3560362661131915599
+    second: astronaut_100
+  - first:
+      213: -7066977208230347954
+    second: astronaut_101
+  - first:
+      213: 8528544667356791480
+    second: astronaut_102
+  - first:
+      213: 5560516538564353946
+    second: astronaut_103
+  - first:
+      213: -6317702150843936015
+    second: astronaut_104
+  - first:
+      213: 1738220294411183385
+    second: astronaut_105
+  - first:
+      213: -8624345228779826804
+    second: astronaut_106
+  - first:
+      213: -1119081762275039629
+    second: astronaut_107
+  - first:
+      213: -7919119316364397339
+    second: astronaut_108
+  - first:
+      213: 2926624616005846140
+    second: astronaut_109
+  - first:
+      213: 4965975139889254208
+    second: astronaut_110
+  - first:
+      213: 9199054382537059033
+    second: astronaut_111
+  - first:
+      213: -1112515295016415089
+    second: astronaut_112
+  - first:
+      213: -7466416059377879298
+    second: astronaut_113
+  - first:
+      213: -5507807673872583387
+    second: astronaut_114
+  - first:
+      213: -6154035368421087890
+    second: astronaut_115
+  - first:
+      213: 5061254844206013261
+    second: astronaut_116
+  - first:
+      213: 337923574004955452
+    second: astronaut_117
+  - first:
+      213: 811718593743044641
+    second: astronaut_118
+  - first:
+      213: -623522133062021734
+    second: astronaut_119
+  - first:
+      213: 3732719467849560863
+    second: astronaut_120
+  - first:
+      213: -2608572672925612913
+    second: astronaut_121
+  - first:
+      213: 4168899286802398119
+    second: astronaut_122
+  - first:
+      213: 8392981185581790174
+    second: astronaut_123
+  - first:
+      213: 7412534734608579019
+    second: astronaut_124
+  - first:
+      213: 637551688603002709
+    second: astronaut_125
+  - first:
+      213: -7331205979707653167
+    second: astronaut_126
+  - first:
+      213: 5435580804658573879
+    second: astronaut_127
+  - first:
+      213: 7188290758323545754
+    second: astronaut_128
+  - first:
+      213: -513775231153071183
+    second: astronaut_129
+  - first:
+      213: 6547258655579453446
+    second: astronaut_130
+  - first:
+      213: -8645308546750457265
+    second: astronaut_131
+  - first:
+      213: 295525626581475125
+    second: astronaut_132
+  - first:
+      213: -1971150283454565532
+    second: astronaut_133
+  - first:
+      213: -3477955175522852129
+    second: astronaut_134
+  - first:
+      213: -4983598305473921603
+    second: astronaut_135
+  - first:
+      213: -146892706735288110
+    second: astronaut_136
+  - first:
+      213: 3187599043451473894
+    second: astronaut_137
+  - first:
+      213: -2769829602116980503
+    second: astronaut_138
+  - first:
+      213: 3933980549858625127
+    second: astronaut_139
+  - first:
+      213: -2394162195515123873
+    second: astronaut_140
+  - first:
+      213: 567899717334581085
+    second: astronaut_141
+  - first:
+      213: -9113810548548243565
+    second: astronaut_142
+  - first:
+      213: 1911490288411548302
+    second: astronaut_143
+  - first:
+      213: 2492073827110116951
+    second: astronaut_144
+  - first:
+      213: -2097057420701460593
+    second: astronaut_145
+  - first:
+      213: 606376514912962654
+    second: astronaut_146
+  - first:
+      213: -1924697634331660592
+    second: astronaut_147
+  - first:
+      213: 1964652825997853758
+    second: astronaut_148
+  - first:
+      213: -8395048115436626697
+    second: astronaut_149
+  - first:
+      213: -8833074851784106657
+    second: astronaut_150
+  - first:
+      213: -174900830393475215
+    second: astronaut_151
+  - first:
+      213: -276179415989663015
+    second: astronaut_152
+  - first:
+      213: 1555107822545991494
+    second: astronaut_153
+  - first:
+      213: -4522046846918932190
+    second: astronaut_154
+  - first:
+      213: 6883094976817614468
+    second: astronaut_155
+  - first:
+      213: -8162704877101203411
+    second: astronaut_156
+  - first:
+      213: 70223316609474481
+    second: astronaut_157
+  - first:
+      213: -5950855349598202808
+    second: astronaut_158
+  - first:
+      213: 6158019966574061752
+    second: astronaut_159
+  - first:
+      213: 7991587822909034008
+    second: astronaut_160
+  - first:
+      213: 8470929380975427269
+    second: astronaut_161
+  - first:
+      213: 8716075795208847739
+    second: astronaut_162
+  - first:
+      213: -1665364921414406146
+    second: astronaut_163
+  - first:
+      213: -1053602196510619370
+    second: astronaut_164
+  - first:
+      213: -3044479364137138283
+    second: astronaut_165
+  - first:
+      213: -4373695728322317725
+    second: astronaut_166
+  - first:
+      213: 4579300169361678996
+    second: astronaut_167
+  - first:
+      213: -328282770226697743
+    second: astronaut_168
+  - first:
+      213: -1300414259110207696
+    second: astronaut_169
+  - first:
+      213: -4186292308082378417
+    second: astronaut_170
+  - first:
+      213: -6780187953211736666
+    second: astronaut_171
+  - first:
+      213: 3502005384953634001
+    second: astronaut_172
+  - first:
+      213: -1490586221396614424
+    second: astronaut_173
+  - first:
+      213: -8296599028902734415
+    second: astronaut_174
+  - first:
+      213: -3383145857197374529
+    second: astronaut_175
+  - first:
+      213: -3200576201836206510
+    second: astronaut_176
+  - first:
+      213: 7688765885286037606
+    second: astronaut_177
+  - first:
+      213: -5664155765456808197
+    second: astronaut_178
+  - first:
+      213: -7453610864886814205
+    second: astronaut_179
+  - first:
+      213: 4499422559027601252
+    second: astronaut_180
+  - first:
+      213: -8091961114143678431
+    second: astronaut_181
+  - first:
+      213: -8808053752772977054
+    second: astronaut_182
+  - first:
+      213: -1636718432544746817
+    second: astronaut_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: astronaut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9da43ee56b4850800000000000000
+      internalID: 6362290972351372809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 705
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c334968c6bfff0800000000000000
+      internalID: -1288049615716269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 705
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4ab932b5d2e530800000000000000
+      internalID: 3882900790196195014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 705
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb562df9a07fd40800000000000000
+      internalID: 5617970741713943694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18e03f0bcf42fa0800000000000000
+      internalID: -5826254180988321375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba103080b06777370800000000000000
+      internalID: 8320248626341413291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d3ccdd86bdf1450800000000000000
+      internalID: 6061804866908208440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ed03b3dee6a290800000000000000
+      internalID: -7879347905028560554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79312b9eac697d00800000000000000
+      internalID: 970926691857807743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762da25e1b5e93c70800000000000000
+      internalID: 8951438286592332391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391b107512830ac0800000000000000
+      internalID: -3890122624531228361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_11
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 570
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0088819ebf1770800000000000000
+      internalID: 8583788947061083919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae0a503cbcc56d0800000000000000
+      internalID: -3000299213262099927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4988a8156a77de0800000000000000
+      internalID: -1335415895345294103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719eccb6b4b71bc70800000000000000
+      internalID: 8985098295442204951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245cdc80b2dab6ae0800000000000000
+      internalID: -1554958845983472318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53584000ff025fe10800000000000000
+      internalID: 2230725470020994357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f435db7e9a3c10800000000000000
+      internalID: 2034112436406384505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e694dd15382f460800000000000000
+      internalID: 7274020735784939031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_19
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 435
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a297dd41ded0a30800000000000000
+      internalID: 4183260302767893081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fcf2ce0cf0ca890800000000000000
+      internalID: -7445558762679578794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 300
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57510c18baafdfe0800000000000000
+      internalID: -1162022471117744294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 300
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b5d2e3f2b70120800000000000000
+      internalID: 2380067688641051005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 300
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71f50052a489700800000000000000
+      internalID: 547268877505992636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95ba8cda35519e0800000000000000
+      internalID: -1651321682500298281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e595d51285742a0800000000000000
+      internalID: -6753332215895466494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93fdab8c4d6c1e0800000000000000
+      internalID: -2177819411193316903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486830e1ebd4f8880800000000000000
+      internalID: -8606574883939055996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d75460775e5adb0800000000000000
+      internalID: -4781163130014827148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91efd2adab1518510800000000000000
+      internalID: 1549609609758375449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c2403aa6b9c8d0800000000000000
+      internalID: -2825526449127898872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 165
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815312ee4212e540800000000000000
+      internalID: 5035607463363301762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c371b139004857c0800000000000000
+      internalID: -4082442653978758200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f31d2c3dd79c460800000000000000
+      internalID: 7262474222571700001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c15f4f4ceb2420800000000000000
+      internalID: 2606436634741293721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd7d0b9e10e2ad0800000000000000
+      internalID: -2725238621306626643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052931fb3c29f58a0800000000000000
+      internalID: -6314166783128137136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e86e977a9329d0800000000000000
+      internalID: -2800224704744855352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 30
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74a32cd8871e1b0800000000000000
+      internalID: -5629085508992088085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
